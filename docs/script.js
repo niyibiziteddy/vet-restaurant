@@ -7,7 +7,7 @@
         ============================================
         */
         const menuData = [
-            {category: 'traditional', name: 'Isombe with boiled plantain & beans', desc: 'Cassava leaves cooked with peanut sauce, served with boiled plantain & beans', price: '9,000', note: 'Local staple dish', image: 'isombe.jpg'},
+            {category: 'traditional', name: 'Isombe with boiled plantain & beans', desc: 'Cassava leaves cooked with peanut sauce, served with boiled plantain & beans', price: '9,000', note: 'Local staple dish', image: './image/isombe.jpg'},
             {category: 'traditional', name: 'Akabenz (fried pork) with steamed rice & salad', desc: 'Seasoned grilled pork served with rice and garden salad', price: '11,000', note: 'Popular local meat dish', image: 'akabenz.jpg'},
             {category: 'traditional', name: 'Brochette (mixed meat skewers)', desc: 'Beef, goat or chicken skewers, with chips & kachumbali salad', price: '10,000', note: 'Choice of meat available', image: 'brochette.jpg'},
             {category: 'traditional', name: 'Nyama choma (roasted goat)', desc: 'Grilled goat leg served with banana, plantain or rice & salad', price: '14,000', note: 'Best served with kachumbali', image: 'nyama-choma.jpg'},
